@@ -1,0 +1,18 @@
+[28-Nov-2018 02:21:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'closed' (T_STRING), expecting ',' or ';' in /home/ftfgifts/public_html/trackmail/tracker.php on line 61
+[28-Nov-2018 02:23:56 America/Chicago] PHP Fatal error:  Class 'PHPMailer' not found in /home/ftfgifts/public_html/trackmail/tracker.php on line 9
+[28-Nov-2018 02:33:11 America/Chicago] PHP Warning:  fopen(https://www.formget.com/tutorial/php-email-tracker/email.txt): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ftfgifts/public_html/trackmail/tracker.php on line 49
+[28-Nov-2018 02:33:11 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/ftfgifts/public_html/trackmail/tracker.php on line 51
+[28-Nov-2018 02:33:11 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/ftfgifts/public_html/trackmail/tracker.php on line 58
+[28-Nov-2018 15:59:10 Asia/Kolkata] PHP Warning:  readfile(https://www.formget.com/tutorial/php-email-tracker/blank.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ftfgifts/public_html/trackmail/trackonline.php on line 39
+[28-Nov-2018 16:02:58 Asia/Kolkata] PHP Warning:  readfile(https://www.formget.com/tutorial/php-email-tracker/blank.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ftfgifts/public_html/trackmail/trackonline.php on line 39
+[28-Nov-2018 16:03:21 Asia/Kolkata] PHP Warning:  readfile(https://www.formget.com/tutorial/php-email-tracker/blank.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ftfgifts/public_html/trackmail/trackonline.php on line 39
+[28-Nov-2018 18:54:34 Asia/Kolkata] PHP Warning:  readfile(https://www.formget.com/tutorial/php-email-tracker/blank.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ftfgifts/public_html/trackmail/trackonline.php on line 39
+[28-Nov-2018 23:31:24 Asia/Kolkata] PHP Warning:  readfile(https://www.formget.com/tutorial/php-email-tracker/blank.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ftfgifts/public_html/trackmail/trackonline.php on line 39
+[29-Nov-2018 09:22:52 Asia/Kolkata] PHP Warning:  readfile(https://www.formget.com/tutorial/php-email-tracker/blank.gif): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/ftfgifts/public_html/trackmail/trackonline.php on line 39
