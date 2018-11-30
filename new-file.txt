@@ -2,6 +2,3 @@
 -> added folders
 -> removed files locally as well as from repo
 -> removed files and folders from repo only
--> new file added in currently initialized git repo
--> new file edited and commit
--> revoke changes
