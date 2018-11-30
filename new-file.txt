@@ -5,3 +5,4 @@
 -> new file added in currently initialized git repo
 -> new file edited and commit
 -> revoke changes
+-> extra content
